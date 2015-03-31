@@ -1,20 +1,20 @@
 # lab3
-Compilation:
+Compilation:<br>
 make
 
-/*when size = 1000*/
+when size = 1000
 sort(): 0 seconds
 v1/v2 are different.
 insertion_sort(): 0.02 seconds
 v1/v2 are the same.
 
-/*when size = 10000*/
+when size = 10000
 sort(): 0 seconds
 v1/v2 are different.
 insertion_sort(): 1.26 seconds
 v1/v2 are the same.
 
-/*when size = 100000*/
+when size = 100000
 sort(): 0.04 seconds
 v1/v2 are different.
 insertion_sort(): 128.03 seconds
